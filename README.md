@@ -9,6 +9,7 @@
 ## Run the application locally 
 
 > pip install yahoo-finance
+
 > streamlit run app.py 
 
 ## Run the application through URL 
