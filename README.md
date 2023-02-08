@@ -12,3 +12,5 @@
 > streamlit run app.py 
 
 ## Run the application through URL 
+
+https://stock-data-fetcher.streamlit.app/
