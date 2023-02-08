@@ -1,4 +1,4 @@
-# Stock_Data_Fetcher
+# Stock Data Fetcher
 
 
 <img align="middle" width="800" height="400" src="./Images/App_Screenshot.png">
