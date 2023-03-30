@@ -14,7 +14,7 @@ ticker = st.text_input("Enter the stock ticker symbol (e.g. AAPL for Apple Inc.)
 # add user input for selecting historical timeframe 
 end_date = st.date_input("Select the end date:", value=datetime.now())
 
-st.warning("If you want to include the current day prices in the dataset, you will need to enter tomorrows date! (Example: Todays date is 3/27/2023 and I want the prices of today to be included in my dataset. Enter 3/28/2023 in the 'end date' section)", icon="💡")
+st.warning("If you want to include the current day prices in the dataset, you will need to enter tomorrows date! (Example: Todays date is 2023/03/27 and I want the prices of today to be included in my dataset. Enter 2023/03/28 in the 'end date' section)", icon="💡")
 
 start_date = st.date_input("Select the start date:", value=end_date - timedelta(days=365*10))
 
