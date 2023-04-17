@@ -14,6 +14,10 @@
 
 > streamlit run app.py 
 
+or 
+
+> pip install -r requirements.txt
+
 ## Run the application through URL 
 
 https://stock-data-fetcher.streamlit.app/
